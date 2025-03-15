@@ -8,12 +8,6 @@ This is a simple **Counter App** built with **React and Redux**. It demonstrates
 - 🎯 Global State Management with Redux
 - 💾 State Persistence with Local Storage (optional)
 
-## 📸 Screenshot
-![Counter App Preview](https://via.placeholder.com/800x400?text=Redux+Counter+App)
-
-## 🚀 Live Demo
-Check out the live version: **[Redux Counter App](https://abhiss01.github.io/redux-counter-app/)**
-
 ## 🛠️ Installation & Setup
 Follow these steps to run the app locally:
 
